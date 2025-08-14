@@ -1,0 +1,55 @@
+{
+    "description": "Yenilikçi çözümlerle geleceği şekillendiriyoruz.",
+    "copyright": "© 2025 Şirket Adı. Tüm hakları saklıdır.",
+    "logo": {
+        "choice": "light",
+        "primary_url": "",
+        "secondary_url": ""
+    },
+    "link_columns": [
+        {
+            "title": "Hızlı Bağlantılar",
+            "links": [
+                {
+                    "label": "Hakkımızda",
+                    "url": "#hakkimizda"
+                },
+                {
+                    "label": "Hizmetlerimiz",
+                    "url": "#hizmetler"
+                }
+            ]
+        },
+        {
+            "title": "Yasal",
+            "links": [
+                {
+                    "label": "Gizlilik Politikası",
+                    "url": "#"
+                },
+                {
+                    "label": "Kullanım Şartları",
+                    "url": "#"
+                }
+            ]
+        }
+    ],
+    "socials": [
+        {
+            "icon": "fab fa-facebook-f",
+            "url": "https:\/\/webturan"
+        },
+        {
+            "icon": "fab fa-twitter",
+            "url": "https:\/\/webturan"
+        },
+        {
+            "icon": "fab fa-instagram",
+            "url": "https:\/\/webturan"
+        },
+        {
+            "icon": "fab fa-linkedin-in",
+            "url": "https:\/\/webturan"
+        }
+    ]
+}

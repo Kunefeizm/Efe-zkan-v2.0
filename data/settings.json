@@ -1,0 +1,15 @@
+{
+    "seo": {
+        "title": "CmsTuran v2.0",
+        "description": "Yenilikçi çözümlerle geleceği şekillendiriyoruz."
+    },
+    "logo": {
+        "type": "image",
+        "text": "Efe",
+        "color_light": "#ffffff",
+        "color_dark": "#1b2559",
+        "image_default": "\/images\/settings\/logo_default_1755066825_1.png",
+        "image_light": "\/images\/settings\/logo_light_1755066825_2.png"
+    },
+    "favicon_url": "\/images\/favicon_1755077493_favicon.ico"
+}

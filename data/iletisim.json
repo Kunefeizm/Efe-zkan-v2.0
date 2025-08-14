@@ -1,0 +1,20 @@
+{
+    "phones": [
+        {
+            "name": "Efe",
+            "number": "05524615054"
+        }
+    ],
+    "whatsapps": [
+        {
+            "name": "Efe",
+            "number": "05524615054"
+        }
+    ],
+    "emails": [
+        "efe@efe.com"
+    ],
+    "address": "Sakarya, Küpçüler",
+    "map_embed_url": "https:\/\/www.google.com\/maps\/embed?pb=!1m10!1m8!1m3!1d48431.22363509854!2d30.4406!3d40.653!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2str!4v1755074204628!5m2!1sen!2str",
+    "map_url": "https:\/\/maps.app.goo.gl\/CSJfLNfovsfnm7EE8"
+}

@@ -1,0 +1,20 @@
+{
+    "slides": [
+        {
+            "title": "CmsTuran v2.0'a Hoşgeldin",
+            "description": "Yönetilebilir Web Sitesi Projesi",
+            "image_url": "\/images\/slider\/1755036565_1.jpg",
+            "title_tag": "h1"
+        },
+        {
+            "title": "CmsTuran v2.0. Sektöre Değer Katar.",
+            "description": "v1.0'dan çok daha kapsamlı bir Cms",
+            "image_url": "\/images\/slider\/1755030031_2.jpg",
+            "title_tag": "strong"
+        }
+    ],
+    "settings": {
+        "autoplay_delay": 5000,
+        "overlay_opacity": 0.3
+    }
+}

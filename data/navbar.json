@@ -1,0 +1,27 @@
+{
+    "logo": {
+        "type": "image",
+        "text": "Horizon",
+        "image_default": "\/images\/navbar\/logo_default_1755066021_2.png",
+        "image_scrolled": "\/images\/navbar\/logo_scrolled_1755037974_1.png",
+        "image_top": "\/images\/navbar\/logo_top_1755038281_2.png"
+    },
+    "menu_items": [
+        {
+            "label": "Anasayfa",
+            "url": "#slider"
+        },
+        {
+            "label": "Hakkımızda",
+            "url": "#hakkimizda"
+        },
+        {
+            "label": "Hizmetler",
+            "url": "#hizmetler"
+        },
+        {
+            "label": "İletişim",
+            "url": "#iletisim"
+        }
+    ]
+}
